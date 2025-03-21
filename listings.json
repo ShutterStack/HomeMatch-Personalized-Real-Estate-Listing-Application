@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "90dc73e8-41cc-47ba-88d5-66eb2df93ec7",
+    "neighborhood": "Pine Valley 1",
+    "price": "$650000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "82948d7d-fc65-45c0-bf92-be231c5470a4",
+    "neighborhood": "Pine Valley 2",
+    "price": "$700000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "22816a23-a5d5-4c55-a30d-541302f8811c",
+    "neighborhood": "Pine Valley 3",
+    "price": "$750000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "18d9b83b-69d1-46cb-854d-85227e2cb738",
+    "neighborhood": "Pine Valley 4",
+    "price": "$800000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "bab6bbcd-ab16-4b64-b12a-d1668cb4023a",
+    "neighborhood": "Pine Valley 5",
+    "price": "$850000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "2b8baed4-5727-42c3-a448-23ca55940652",
+    "neighborhood": "Pine Valley 6",
+    "price": "$900000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "c921e36a-9817-4a06-8026-e13274eee4a6",
+    "neighborhood": "Pine Valley 7",
+    "price": "$950000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "97613ae7-b68e-4a1f-af11-9b9d279244a0",
+    "neighborhood": "Pine Valley 8",
+    "price": "$1000000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "65455485-cbc1-4d66-b3a7-35cf45bf93d0",
+    "neighborhood": "Pine Valley 9",
+    "price": "$1050000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "143b4e2a-05a6-4cd3-995e-a6a6c22be01e",
+    "neighborhood": "Pine Valley 10",
+    "price": "$1100000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "b264e2f0-8408-4c36-aa18-562426d35bbe",
+    "neighborhood": "Pine Valley 11",
+    "price": "$1150000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "036e6816-cbf9-4b83-90a0-9a0dddf3b2f2",
+    "neighborhood": "Pine Valley 12",
+    "price": "$1200000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "108a507e-5b6f-4855-863e-5b0a60b2ce34",
+    "neighborhood": "Pine Valley 13",
+    "price": "$1250000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "8b4737a0-fd00-480f-b51a-8a7006f383a4",
+    "neighborhood": "Pine Valley 14",
+    "price": "$1300000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "59061765-219e-4fb3-adeb-c01215b97213",
+    "neighborhood": "Pine Valley 15",
+    "price": "$1350000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "7e9107e0-1a82-4a5c-a073-ce533e364b74",
+    "neighborhood": "Pine Valley 16",
+    "price": "$1400000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "5235b31b-672c-4dc0-aec2-b7f679b59ab0",
+    "neighborhood": "Pine Valley 17",
+    "price": "$1450000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "a346d06f-9c23-4b4b-9464-4a743e051930",
+    "neighborhood": "Pine Valley 18",
+    "price": "$1500000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "9a14ad6f-ab99-4d59-b47e-693aba950b9f",
+    "neighborhood": "Pine Valley 19",
+    "price": "$1550000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "463a2aca-3db2-4bcd-9a7a-7406de2a935b",
+    "neighborhood": "Pine Valley 20",
+    "price": "$1600000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "ad0088e6-3dae-4431-b3b1-9ac1d96768a8",
+    "neighborhood": "Pine Valley 21",
+    "price": "$1650000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "01ede065-d6d2-40f1-ae47-e571af916aa3",
+    "neighborhood": "Pine Valley 22",
+    "price": "$1700000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "88451d5e-4c86-4105-aca7-be6157bd4c46",
+    "neighborhood": "Pine Valley 23",
+    "price": "$1750000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "09096088-2f66-4106-aa1c-a6a2d1194327",
+    "neighborhood": "Pine Valley 24",
+    "price": "$1800000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "4f864b0b-3fbc-4056-80aa-4f21181c42ef",
+    "neighborhood": "Pine Valley 25",
+    "price": "$1850000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "29b73ac0-63ab-4587-b0b8-05daaae1626f",
+    "neighborhood": "Pine Valley 26",
+    "price": "$1900000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "33237bd6-b88c-4e0b-bf51-9e80f99f9351",
+    "neighborhood": "Pine Valley 27",
+    "price": "$1950000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "2a1088a6-5100-4371-b46c-601ea61187fb",
+    "neighborhood": "Pine Valley 28",
+    "price": "$2000000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "4045fcf2-8de2-4792-a8b7-e03f0f87d5c1",
+    "neighborhood": "Pine Valley 29",
+    "price": "$2050000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "423b347a-ef61-4406-a730-28dfdf426f7b",
+    "neighborhood": "Pine Valley 30",
+    "price": "$2100000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "0310c7ed-93aa-451f-b9bd-5236c8d76e17",
+    "neighborhood": "Pine Valley 31",
+    "price": "$2150000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "7b3379e1-8086-4ce7-9c43-aecf977a184c",
+    "neighborhood": "Pine Valley 32",
+    "price": "$2200000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "dbd7a71b-d09f-4273-86b8-0e118c0ad9a6",
+    "neighborhood": "Pine Valley 33",
+    "price": "$2250000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "abc2a8b7-51d8-4f1b-8341-ad4dad2fabe2",
+    "neighborhood": "Pine Valley 34",
+    "price": "$2300000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "444392f2-c93d-4f96-972f-44bad81c1ce6",
+    "neighborhood": "Pine Valley 35",
+    "price": "$2350000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "b3145281-8119-4ed1-966a-5b5b43195e10",
+    "neighborhood": "Pine Valley 36",
+    "price": "$2400000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "06002cb2-d172-4214-848a-e1f0e2472bdb",
+    "neighborhood": "Pine Valley 37",
+    "price": "$2450000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "d238f502-87e9-4c1a-81ba-4a8cb0cb79a6",
+    "neighborhood": "Pine Valley 38",
+    "price": "$2500000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "1b9cf933-bd5d-4f81-8f54-1c8bbc648bff",
+    "neighborhood": "Pine Valley 39",
+    "price": "$2550000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "377544d6-1d40-4595-8383-7e0d72af63c6",
+    "neighborhood": "Pine Valley 40",
+    "price": "$2600000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "9fa3cf75-5c18-46f6-8c2b-00048bddc3c8",
+    "neighborhood": "Pine Valley 41",
+    "price": "$2650000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "ea087cbe-f493-4ef4-a34c-24f88a0c5633",
+    "neighborhood": "Pine Valley 42",
+    "price": "$2700000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "20349550-1e77-4db5-8904-e54981c7b12b",
+    "neighborhood": "Pine Valley 43",
+    "price": "$2750000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "a2f2ee50-ca84-4b64-9a01-72f87c30e5cc",
+    "neighborhood": "Pine Valley 44",
+    "price": "$2800000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "7a35bdb8-cfe3-4489-a6f4-3db9244f6bd2",
+    "neighborhood": "Pine Valley 45",
+    "price": "$2850000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "69579153-d88a-40ee-8143-c872d01d1df0",
+    "neighborhood": "Pine Valley 46",
+    "price": "$2900000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "4716e464-8237-4f44-891c-cf5aec46a5cf",
+    "neighborhood": "Pine Valley 47",
+    "price": "$2950000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "e5d97ff0-38b5-4cb9-8be6-9cc316e5df34",
+    "neighborhood": "Pine Valley 48",
+    "price": "$3000000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "df5befc2-43fd-4749-be5a-18ca79c236ed",
+    "neighborhood": "Pine Valley 49",
+    "price": "$3050000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "13b34f35-cd94-465c-96a5-98ae540ef098",
+    "neighborhood": "Pine Valley 50",
+    "price": "$3100000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "bb00d344-7729-44f4-b80a-a30449a5b9a8",
+    "neighborhood": "Pine Valley 51",
+    "price": "$3150000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "c64c8c4d-2778-4cba-a52c-87a9041ab20f",
+    "neighborhood": "Pine Valley 52",
+    "price": "$3200000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "cf012944-c512-4499-b67b-1d5935539c17",
+    "neighborhood": "Pine Valley 53",
+    "price": "$3250000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "c247ccb8-5beb-4ae8-aece-49ef2e194bb9",
+    "neighborhood": "Pine Valley 54",
+    "price": "$3300000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "a098f0da-3f53-41d0-b09e-a7751ab545fd",
+    "neighborhood": "Pine Valley 55",
+    "price": "$3350000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "78cfff67-5341-4e29-b286-652af91a7477",
+    "neighborhood": "Pine Valley 56",
+    "price": "$3400000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "4185f495-89ed-479a-a96f-2e2851377956",
+    "neighborhood": "Pine Valley 57",
+    "price": "$3450000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "ede14a0b-2ae5-4e7d-8c46-d229c0d08bea",
+    "neighborhood": "Pine Valley 58",
+    "price": "$3500000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "4313f97e-a94e-4cc3-bead-65f95dc1e5a3",
+    "neighborhood": "Pine Valley 59",
+    "price": "$3550000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "0d81203d-0282-4c8f-9dbe-11a2ddb10c40",
+    "neighborhood": "Pine Valley 60",
+    "price": "$3600000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "91269d29-9dd9-4b23-bc21-e37120193f5f",
+    "neighborhood": "Pine Valley 61",
+    "price": "$3650000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "ff6e672c-2eb7-4a71-b6b1-07fe7cd7fe63",
+    "neighborhood": "Pine Valley 62",
+    "price": "$3700000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "f122ef29-4924-43f4-86bf-6258790fd255",
+    "neighborhood": "Pine Valley 63",
+    "price": "$3750000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "92dad824-e053-4b02-bad1-162c8eec4464",
+    "neighborhood": "Pine Valley 64",
+    "price": "$3800000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "9f8975b8-1eec-4d6f-8448-d4e5549b54a9",
+    "neighborhood": "Pine Valley 65",
+    "price": "$3850000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "baa79a25-813b-47e1-ac8a-c35ebcf25cea",
+    "neighborhood": "Pine Valley 66",
+    "price": "$3900000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "312d45ed-acf0-4a42-b834-104b8eef16b4",
+    "neighborhood": "Pine Valley 67",
+    "price": "$3950000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "3924ae4b-d33b-400d-ac80-a9757788c2a3",
+    "neighborhood": "Pine Valley 68",
+    "price": "$4000000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "4560e5ff-6de4-4698-86db-33aed2bbbe92",
+    "neighborhood": "Pine Valley 69",
+    "price": "$4050000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "f4ec780a-c18c-46df-83fd-9c6776e85c19",
+    "neighborhood": "Pine Valley 70",
+    "price": "$4100000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "5e5fa363-7041-40f0-b6cd-038d2b895433",
+    "neighborhood": "Pine Valley 71",
+    "price": "$4150000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "af86fe00-29aa-4300-b649-0c00b0860112",
+    "neighborhood": "Pine Valley 72",
+    "price": "$4200000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "a2744465-66a3-431f-800b-48fa8cfe0be4",
+    "neighborhood": "Pine Valley 73",
+    "price": "$4250000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "43c3e553-8d64-4aa4-a998-c00f9d9bc12f",
+    "neighborhood": "Pine Valley 74",
+    "price": "$4300000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "096debf9-9d7d-49e1-8b60-ef366bc9da9f",
+    "neighborhood": "Pine Valley 75",
+    "price": "$4350000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "188ead3f-1e51-4e7c-bd64-7812b9660f95",
+    "neighborhood": "Pine Valley 76",
+    "price": "$4400000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "0ca1df7e-218e-4390-a7e8-e18bf4895c4c",
+    "neighborhood": "Pine Valley 77",
+    "price": "$4450000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "62b64daf-57f1-4431-a79c-988e0c81b0f0",
+    "neighborhood": "Pine Valley 78",
+    "price": "$4500000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "b8f3dcfd-6bae-41c9-9557-0b4f056aa1fa",
+    "neighborhood": "Pine Valley 79",
+    "price": "$4550000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "ef376245-6a0d-4bfe-8fe4-5ba78685c171",
+    "neighborhood": "Pine Valley 80",
+    "price": "$4600000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "5b9ecf16-12a2-4193-afca-445ebb90cdad",
+    "neighborhood": "Pine Valley 81",
+    "price": "$4650000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "dbb97194-51fd-41f8-8051-602cc7c683c3",
+    "neighborhood": "Pine Valley 82",
+    "price": "$4700000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "db1670f2-f823-430d-9a44-775a03d56b9a",
+    "neighborhood": "Pine Valley 83",
+    "price": "$4750000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "a808324c-1572-4e39-837e-ecb998c84974",
+    "neighborhood": "Pine Valley 84",
+    "price": "$4800000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "63949ef7-d2d8-44d0-a9a0-a0cce275c862",
+    "neighborhood": "Pine Valley 85",
+    "price": "$4850000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "e33aae7c-17c6-4a98-8223-45287a1ae58f",
+    "neighborhood": "Pine Valley 86",
+    "price": "$4900000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "bc3f914b-a87f-4a45-ba72-22cc72e283c8",
+    "neighborhood": "Pine Valley 87",
+    "price": "$4950000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "bf874e41-6f45-4ef5-adf9-5d6b4c8629a3",
+    "neighborhood": "Pine Valley 88",
+    "price": "$5000000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "e0dd5e71-9b42-4f07-a92f-fa69ca8c40f8",
+    "neighborhood": "Pine Valley 89",
+    "price": "$5050000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "976f0e66-948e-4c36-a8d1-d5db2460b868",
+    "neighborhood": "Pine Valley 90",
+    "price": "$5100000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "00da16bf-f219-46d4-9b4b-779a01837cea",
+    "neighborhood": "Pine Valley 91",
+    "price": "$5150000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "bae16833-3c41-4a82-bbe0-280e929688c5",
+    "neighborhood": "Pine Valley 92",
+    "price": "$5200000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "d8f713ea-3975-48b7-801b-6a8b7e62b2db",
+    "neighborhood": "Pine Valley 93",
+    "price": "$5250000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "9e925584-772c-453b-bff4-24d87e8e1c74",
+    "neighborhood": "Pine Valley 94",
+    "price": "$5300000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "2a54fe3a-2784-4d32-9094-d84aff897d95",
+    "neighborhood": "Pine Valley 95",
+    "price": "$5350000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "586a5bc3-c57f-4f79-bac7-c072ba1422a4",
+    "neighborhood": "Pine Valley 96",
+    "price": "$5400000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "05cb205a-91bb-4f8f-b177-6ff0f119df4e",
+    "neighborhood": "Pine Valley 97",
+    "price": "$5450000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "508077fe-d3d3-4de5-b297-c58cc7174e3f",
+    "neighborhood": "Pine Valley 98",
+    "price": "$5500000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "57ff79b4-9984-47c4-b90c-a7c47c6d574e",
+    "neighborhood": "Pine Valley 99",
+    "price": "$5550000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  },
+  {
+    "id": "c7f56ab9-fb36-4883-a043-49732fa4dbac",
+    "neighborhood": "Pine Valley 100",
+    "price": "$5600000",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "house_size": "2,800 sqft",
+    "description": "Modern 4-bed home with open floor plan, gourmet kitchen with island, and master suite with spa-like bath. Features smart home tech and a landscaped backyard.",
+    "neighborhood_description": "Pine Valley offers suburban peace with top schools, parks, and easy highway access. Close to shops and dining."
+  }
+]
